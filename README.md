@@ -2,6 +2,9 @@
 The webpage fully responsive in various zoom levels and window resize and support all the three devices (desktop, tablet and mobile)
 
 
+
+
+
 Here are some demos
 
 For desktop version
