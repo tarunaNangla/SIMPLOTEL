@@ -2,11 +2,7 @@
 The webpage fully responsive in various zoom levels and window resize and support all the three devices (desktop, tablet and mobile)
 
 
-<div  align="center" gap="20px">
-  Click here
-<a href="https://6453764408a0ce7301e82cb7--taruna.netlify.app/">
 
-</a>
 
 
 Here are some demos
