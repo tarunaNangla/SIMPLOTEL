@@ -5,7 +5,7 @@ The webpage fully responsive in various zoom levels and window resize and suppor
 <div  align="center" gap="20px">
   Click here
 <a href="https://6453764408a0ce7301e82cb7--taruna.netlify.app/">
-<img width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=click&logoColor=white" />
+
 </a>
 
 
