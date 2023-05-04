@@ -12,6 +12,9 @@ For desktop version
 
 
 For Tablet version
+
+
+
 ![Screenshot 2023-05-04 143313](https://user-images.githubusercontent.com/99668292/236159584-c96588e0-d798-474e-9610-b421ede13200.png)
 ![Screenshot 2023-05-04 143343](https://user-images.githubusercontent.com/99668292/236159615-e07d48cc-edce-4203-b79c-2510c18b2d55.png)
 
